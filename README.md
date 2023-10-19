@@ -2,7 +2,7 @@
 - 👀 I’m interested in Business Analysis 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some real world projects
-- 📫 How to reach me (esterradhina@gmail.com)
+- 📫 How to reach me (radhinavelmourougan@gmail.com)
 
 <!---
 Radhina/Radhina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
